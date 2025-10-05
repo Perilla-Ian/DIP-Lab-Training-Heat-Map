@@ -59,6 +59,9 @@ This creates pinned locations on the map, allowing visitors to view all past tra
 
 ![WordPress Map Implementation](Images/Implementation.png)
 
+See it here:
+
+https://diplab.uplb.edu.ph/training/
 ---
 
 ### Reference:
@@ -66,3 +69,4 @@ This creates pinned locations on the map, allowing visitors to view all past tra
 UPLB DAFX Module
 
 https://drive.google.com/file/d/1_tHZ-L3B2qQJSnEw-I21WuT8UxeYiUaC/view?usp=sharing
+
